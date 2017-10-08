@@ -2,7 +2,21 @@
 <module type="CPP_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Sources/07_dict/Contents.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sources/02_comments/Landmarks.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sources/11_comp_logical/Contents.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sources/03_vars1/Contents.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sources/14_ternary/Contents.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sources/04_vars2/Contents.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sources/06_arrays/Contents.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sources/12_range_op/Contents.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sources/08_sets/Contents.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sources/13_array_op/Contents.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sources/10_arith/Contents.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Sources/00_test/main.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sources/09_tuples/Contents.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sources/01_console_logging/main.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sources/05_strings/Contents.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Package.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
     </content>
