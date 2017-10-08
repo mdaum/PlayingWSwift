@@ -1,6 +1,4 @@
-# test
-
-A description of this package.
+# Playing Around with Swift
 
 How to build/run a Swift Project in Clion with CMake
 
@@ -15,3 +13,5 @@ You can quickly build and run a file w/o xcode or cMake by cd'ing into the desir
 `swiftc filename.swift` to create executable `filename`
 
 You can enter the swift REPL by simply typing `swift` and hack away.
+
+The Source files are from the Swift 3 Essential Training: The Basics on Lynda.com with some added notes on my end
